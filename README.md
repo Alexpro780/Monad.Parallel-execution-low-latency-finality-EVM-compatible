@@ -14,3 +14,6 @@ Low-latency block finality
 High TPS without custom VM
 
 Use Cases: High-performance DeFi, HFT, on-chain order books.
+Parallel EVM execution
+
+Deterministic state transitions
