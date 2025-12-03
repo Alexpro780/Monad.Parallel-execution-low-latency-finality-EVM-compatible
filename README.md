@@ -7,7 +7,7 @@ Key Features:
 
 Parallel EVM execution
 
-Deterministic state transitions
+
 
 Low-latency block finality
 
